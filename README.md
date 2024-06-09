@@ -66,10 +66,10 @@ Game Palooza is a web-based application created with Streamlit that offers a col
 
 ## Sample Images
 
-### Welcome Page
-![Welcome Page](sample_pictures/welcome_page.png)
+### Game Arena Page
+![Game Arena]([sample_pictures/welcome_page.png](https://github.com/GOURIKP/Game-Palooza/blob/main/sample%20images/sampleimage1.png))
 
 ### Other Pages
-Sample images of the site can be found in the `sample_pictures` folder.
+Sample images of the site can be found in the `sample images` folder.
 
 ### Enjoy playing at Game Palooza! 👾
