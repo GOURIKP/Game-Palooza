@@ -45,7 +45,7 @@ words_list = ["apple", "banana", "cherry", "date", "elderberry",
 
 # Function to generate random words
 def generate_words():
-    return random.sample(words_list, 2)
+    return random.sample(words_list, 10)
 
 # Function to text-to-speech
 def speak(text):
