@@ -2,6 +2,15 @@
 
 Game Palooza is a web-based application created with Streamlit that offers a collection of fun and interactive mini-games. The app provides a visually appealing interface with background videos and easy navigation between different games.
 
+
+## Sample Images
+
+### Game Arena Page
+![Game Arena](https://github.com/GOURIKP/Game-Palooza/blob/main/sample%20images/sampleimage1.png)
+
+### Other Pages
+Sample images of the site can be found in the `sample images` folder.
+
 ## Features
 
 - **Background Video**: Adds an engaging background video to the application.
@@ -63,13 +72,5 @@ Game Palooza is a web-based application created with Streamlit that offers a col
 - **Tools Used**:
   - PIL (Pillow): For image processing and manipulation.
   - Random: For selecting random images and obscuring them.
-
-## Sample Images
-
-### Game Arena Page
-![Game Arena](https://github.com/GOURIKP/Game-Palooza/blob/main/sample%20images/sampleimage1.png)
-
-### Other Pages
-Sample images of the site can be found in the `sample images` folder.
 
 ### Enjoy playing at Game Palooza! 👾
